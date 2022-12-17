@@ -12,7 +12,7 @@ The Potability column of this dataset is need to predict because it contains val
 
 # Steps-on-EDA
 1. Start the analysis by importing Python Libraries and the dataset
-2. I caan see the nan/null values of this dataset, so before we go ahead, let's fill the NAN values by using mean
+2. I can see the nan/null values of this dataset, so before we go ahead, let's fill the NAN values by using mean
 3. As mentioned above, there are no factors that we cannot ignore that affect water quality, so let's explore all the columns one by one
 4. The pH column represent the pH value of the water 
 5. the pH value of drinking water should be between 6.5 to 8.5 
